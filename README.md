@@ -1,4 +1,4 @@
-# How to Install and Run n8n Using npm on a Google Cloud Platform VM
+# How to Install and Run n8n Using npm on a Google Cloud Platform VM (Recommended for Dev/Test)
 
 This guide will walk you through the process of setting up an n8n instance (an automation tool) using npm on a Google Cloud Platform (GCP) virtual machine. We will cover everything from creating the VM to configuring environment variables and running n8n with PM2 so that it keeps running even if your SSH session ends.
 
