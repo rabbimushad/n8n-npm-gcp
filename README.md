@@ -41,8 +41,8 @@ This guide will walk you through the process of setting up an n8n instance (an a
 
 1. **Install Node.js (v18 is recommended):**
    ```bash
-   curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-   sudo apt-get install -y nodejs
+   curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
+sudo apt-get install -y nodejs
    ```
 
 2. **Verify the Installation:**
